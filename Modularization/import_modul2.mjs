@@ -4,4 +4,3 @@ console.log(student.name);
 console.log(student.course);
 student.hello(student.name);
 
-

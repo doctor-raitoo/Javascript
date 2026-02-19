@@ -17,3 +17,5 @@ const coffee = new CoffeMachine(10);
 console.log('Sebelum diubah : ' , coffee.temperature);
 coffee.temperature = 100;
 console.log('Setelah diubah: ' , coffee.temperature);
+
+
